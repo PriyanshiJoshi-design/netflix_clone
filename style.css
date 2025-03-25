@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    background-image: url(header-image.png);
+    height: 699px;
+    width: 436px;
+}
